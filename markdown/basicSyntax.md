@@ -1,6 +1,10 @@
 # TITULO PRIMER NIVEL
 ## TITULO SEGUNDO NIVEL
-###### TITULO DE SECTO NIVEL
+###### TITULO DE SEXTO NIVEL
+
+parrafo normal
+
+**texto destacado**
 
 *texto italic*
 
