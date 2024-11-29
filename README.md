@@ -1,24 +1,38 @@
-# Isaachd3005
+# Hola, soy Isaac Diaz Huertas
 
-### Hola mi nombre es Isaac Diaz
+**Agente Bilingue** en un call center y estudiante de **Ingenieria de Software**, tengo 20 años.
+Me gustan los videojuegos y la musica. Actualmente estudio **Ingenieria de Software y un Bootcamp de Desarrollo Web**.
 
-## Soy estudiante de ingenieria de Software y trabajo en un call center como agente Bilingue
+##### **Hobbies**
 
-git status
-[Repositorio de apoyo] (https://github.com/Isaachd3005/Isaachd3005.git)
+1. _Jugar Videojuegos_
 
-**Lista 2**
-[Repositorio de apoyo](https://github.com/Isaachd3005/Isaachd3005)
+- Campañas para 1 jugador
+- Con mis hermanos Fifa
+- Con mi Familia Just Dance
 
-## Desafios
+2. _cocinar_
 
-1.  Crear una variable y asignarle su nombre, crear una constante y asignarle su
-    edad, luego imprimir en consola: Hola, soy \_**_ y tengo _** años.
-2.  Crear una funcion llamada presentarme, dentro crear una variable y asignarle
-    su nombre, crear unasconstante y asignarle su edad, luego imprimir en consola:
-    Hola, soy \_**_ y tengo _** años.
-3.  Crear una funcion que reciba un nombre y edad por parárametros, luego imprimir
-    en consola: Hola soy \_**_ y tengo _** años.
-4.  Crear una funcion que reciba un nombre, un apellido y una edad por parametros,
-    la funcion debe imprimir en consola: Su nombre es **\_** y usted tiene \_**\_ años,
-    si no se recibe la edad imprimir: Su nombre es \_\_\_\_** y usted tiene 100 años.
+## Mejores Recetas
+
+- Postres de limon
+- Lasagna
+- Truchas con salsa de champiñones
+- Tipicos platos Colombianos (Frijol,Ajiaco, etc...)
+
+3. _Leer_
+
+- Libros de desarrollo personal
+- Psicologia
+- La Biblia
+
+4. _Hacer ejercicio_
+
+- Basketball
+- Gym
+- Calistenia en parque
+
+###### AUTOR
+
+Isaac Diaz Huertas
+_Isaachd3005_
