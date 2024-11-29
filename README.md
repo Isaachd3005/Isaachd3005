@@ -7,6 +7,8 @@ Me gustan los videojuegos y la musica. Actualmente estudio **Ingenieria de Softw
 
 1. _Jugar Videojuegos_
 
+## ¿Que Juego?
+
 - Campañas para 1 jugador
 - Con mis hermanos Fifa
 - Con mi Familia Just Dance
@@ -22,11 +24,17 @@ Me gustan los videojuegos y la musica. Actualmente estudio **Ingenieria de Softw
 
 3. _Leer_
 
+## ¿Que Leo?
+
 - Libros de desarrollo personal
 - Psicologia
 - La Biblia
 
+---
+
 4. _Hacer ejercicio_
+
+## ¿Que Entreno?
 
 - Basketball
 - Gym
