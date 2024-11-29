@@ -37,3 +37,21 @@ function presentacion(nombre, edad) {
   console.log("Hola, soy " + nombre + " y tengo " + edad + " años.");
 }
 presentacion("Juan", 25);
+
+/*4.  Crear una funcion que reciba un nombre, un apellido y una edad por parametros,
+    la funcion debe imprimir en consola: Su nombre es _____ y usted tiene ____ años,
+    si no se recibe la edad imprimir: Su nombre es ______ y usted tiene 100 años.*/
+
+function desafio4(nombre, apellido, edad = 100) {
+  console.log(
+    "Su nombre es " +
+      nombre +
+      " " +
+      apellido +
+      " y usted tiene " +
+      edad +
+      " años."
+  );
+}
+desafio4("Isaac", "Diaz", 20);
+desafio4("Isaac", "Diaz");
