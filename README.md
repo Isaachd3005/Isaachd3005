@@ -3,6 +3,11 @@
 **Agente Bilingue** en un call center y estudiante de **Ingenieria de Software**, tengo 20 años.
 Me gustan los videojuegos y la musica. Actualmente estudio **Ingenieria de Software y un Bootcamp de Desarrollo Web**.
 
+### Idiomas
+
+- Español Nativo
+- Ingles B2
+
 ##### **Hobbies**
 
 1. _Jugar Videojuegos_
