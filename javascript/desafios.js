@@ -30,3 +30,10 @@ miFuncion1("Pepita perez");
 miFuncion1("Pepito perez");
 miFuncion1("Juan");
 miFuncion1("Manu");
+
+/*3.  Crear una funcion que reciba un nombre y edad por parárametros, luego imprimir 
+en consola: Hola, soy ___ y tengo ___ años.*/
+function presentacion(nombre, edad) {
+  console.log("Hola, soy " + nombre + " y tengo " + edad + " años.");
+}
+presentacion("Juan", 25);
